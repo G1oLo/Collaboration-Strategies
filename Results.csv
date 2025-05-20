@@ -1,0 +1,10 @@
+Protocollo,Specificità,Sensitività,Accuracy
+Simple-Majority,0.86,0.77,0.82
+Accuracy-Oriented,0.91,0.89,0.9
+Confidence-Oriented,0.91,0.9,0.91
+Specificity-Oriented,0.91,0.88,0.9
+Sensitivity-Oriented,0.89,0.89,0.89
+Cautious,0.86,0.87,0.87
+Presumptuous,0.86,0.87,0.87
+AND_Rule,0.86,0.87,0.87
+OR_Rule,0.86,0.87,0.87
