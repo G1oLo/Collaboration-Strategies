@@ -1,0 +1,10 @@
+\begin{tabular}{llrrr}
+\toprule
+ & Protocollo & Specificità & Sensitività & Accuracy \\
+\midrule
+0 & Accuracy-Oriented & 0.888900 & 0.888900 & 0.888900 \\
+1 & Confidence-Oriented & 0.903700 & 0.896300 & 0.900000 \\
+2 & Specificity-Oriented & 0.903800 & 0.882100 & 0.893200 \\
+3 & Sensitivity-Oriented & 0.879300 & 0.889100 & 0.884100 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,15 @@
+\begin{tabular}{llrrr}
+\toprule
+ & Protocollo & Specificità & Sensitività & Accuracy \\
+\midrule
+0 & Simple-Majority & 0.862300 & 0.771700 & 0.819700 \\
+1 & Accuracy-Oriented & 0.925900 & 0.916700 & 0.921300 \\
+2 & Confidence-Oriented & 0.912500 & 0.905100 & 0.908800 \\
+3 & Specificity-Oriented & 0.895700 & 0.623200 & 0.768900 \\
+4 & Sensitivity-Oriented & 0.580100 & 0.932900 & 0.752500 \\
+5 & Cautious & 0.772700 & 0.841000 & 0.810600 \\
+6 & Presumptuous & 0.909700 & 0.916700 & 0.913200 \\
+7 & AND_Rule & 0.972200 & 0.812500 & 0.892400 \\
+8 & OR_Rule & 0.798600 & 0.958300 & 0.878500 \\
+\bottomrule
+\end{tabular}
