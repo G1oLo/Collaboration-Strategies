@@ -3,7 +3,7 @@
  The study was developed by me and my collegue Alessia Papale in our lab, MUDI, of the Milano-Bicocca University starting from the inspiration to some previous work https://link.springer.com/article/10.1007/s13755-021-00138-8.
 
 ## Data Collection
-The data have been collected in Gaetano Pini Hospital thanks to the collaboration of doctor Gallazzi.
+The data have been collected at Gaetano Pini Hospital thanks to the collaboration of doctor Gallazzi.
 
 ## Data Preparation
 Data preparation procedures are all reported in Kasparov_ALL notebook.
